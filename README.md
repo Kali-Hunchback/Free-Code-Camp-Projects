@@ -29,10 +29,10 @@ This is the first of the projects in the FCC curriculum. The following user stor
 ##### Testing
 In order for these user stories to be tested, the site was composed on CodePen.io, where a project was forked containing a testing suite to identify the completion of the stories. The testing suite can be accessed by either clicking the three-bar icon in the top left of the page, or using the shortcut CTRL+SHFT+O and run the tests.
 
-##### **__Completed Project Link: https://codepen.io/Shadzy/pen/vYOvxXr__**
+##### **__Completed Project Link https://codepen.io/Shadzy/pen/vYOvxXr__**
 
 #### Build a Survey Form
-The second projects, user stories are provided below, I took a while between this and the first project, but I learnt a lot while working on this one sporadically over the course of a month.
+The second project, user stories are provided below, I took a while between this and the first project, but I learnt a lot while working on this one sporadically over the course of a month.
 
 1. I can see a title with id="title" in H1 sized text.
 
@@ -40,13 +40,13 @@ The second projects, user stories are provided below, I took a while between thi
 
 1. I can see a form with id="survey-form".
 
-1.Inside the form element, I am required to enter my name in a field with id="name".
+1. Inside the form element, I am required to enter my name in a field with id="name".
 
-1.Inside the form element, I am required to enter an email in a field with id="email".
+1. Inside the form element, I am required to enter an email in a field with id="email".
 
-1.If I enter an email that is not formatted correctly, I will see an HTML5 validation error.
+1. If I enter an email that is not formatted correctly, I will see an HTML5 validation error.
 
-1.Inside the form, I can enter a number in a field with id="number".
+1. Inside the form, I can enter a number in a field with id="number".
 
 1. If I enter non-numbers in the number input, I will see an HTML5 validation error.
 

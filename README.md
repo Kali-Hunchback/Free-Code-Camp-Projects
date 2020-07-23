@@ -29,7 +29,7 @@ This is the first of the projects in the FCC curriculum. The following user stor
 ##### Testing
 In order for these user stories to be tested, the site was composed on CodePen.io, where a project was forked containing a testing suite to identify the completion of the stories. The testing suite can be accessed by either clicking the three-bar icon in the top left of the page, or using the shortcut CTRL+SHFT+O and run the tests.
 
-##### **__Completed Project Link https://codepen.io/Shadzy/pen/vYOvxXr__**
+#### **__Completed Project Link https://codepen.io/Shadzy/pen/vYOvxXr__**
 
 #### Build a Survey Form
 The second project, user stories are provided below, I took a while between this and the first project, but I learnt a lot while working on this one sporadically over the course of a month.
@@ -67,3 +67,38 @@ The second project, user stories are provided below, I took a while between this
 1. Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
 
 #### **__Completed Project Link https://codepen.io/Shadzy/pen/GRJemmL__**
+
+#### Build a Product Landing Page
+Third Project, User stories provided below IN PROGRESS
+
+1. My product landing page should have a header element with a corresponding id="header".
+
+1. I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
+
+1. Within the #header element I can see a nav element with a corresponding id="nav-bar".
+
+1. I can see at least three clickable elements inside the nav element, each with the class nav-link.
+
+1. When I click a .nav-link button in the nav element, I am taken to the corresponding section of the landing page.
+
+1. I can watch an embedded product video with id="video".
+
+1. My landing page has a form element with a corresponding id="form".
+
+1. Within the form, there is an input field with id="email" where I can enter an email address.
+
+1. The #email input field should have placeholder text to let the user know what the field is for.
+
+1. The #email input field uses HTML5 validation to confirm that the entered text is an email address.
+
+1. Within the form, there is a submit input with a corresponding id="submit".
+
+1. When I click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit).
+
+1. The navbar should always be at the top of the viewport.
+
+1. My product landing page should have at least one media query.
+
+1. My product landing page should utilize CSS flexbox at least once.
+
+#### **__Project in progress: https://codepen.io/Shadzy/pen/XWmywdr__**

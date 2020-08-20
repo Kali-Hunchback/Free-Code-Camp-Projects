@@ -1,5 +1,6 @@
 # Free-Code-Camp-Projects
-
+## **This repository is now defunct, please refer to the individual FCC marked repositories.<br>
+The source code is available and the deployments are on GitHub Pages instead of hosted on CodePen**
 ## A collection of projects undertaken as a part of FreeCodeCamps (FCC) certifications
 
 These projects were undertaken to expand my understanding of web development as well as algorithms, data structures and serving as a basis for learning JavaScript through the use of a structured resource.
